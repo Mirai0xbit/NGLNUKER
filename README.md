@@ -4,7 +4,7 @@
 
 
 <p align="center"><img src="https://i.ibb.co/JmQkVM7/Screenshot-From-2025-01-22-18-44-58.png" width="1078" height="433" alt="POWER"></p>
-
+<br><br>
 
 **Clone and Install Script**
 ```shell script
