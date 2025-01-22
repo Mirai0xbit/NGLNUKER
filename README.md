@@ -1,4 +1,4 @@
-<h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
+<h1 align="center">NGL NUKER</h1>
 
 <p align="center">FOR EDUCATIONAL PURPOSES ONLY.</p>
 
