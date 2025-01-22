@@ -13,4 +13,5 @@
 git clone https://github.com/Mirai0xbit/NGLNUKER
 cd NGLNUKER
 pip3 install -r requirements.txt
+python3 nglnuke-mirai.py
 ```
