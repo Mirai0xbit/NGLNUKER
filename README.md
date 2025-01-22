@@ -7,7 +7,6 @@
 
 
 **Clone and Install Script**
-
 ```shell script
 git clone https://github.com/Mirai0xbit/NGLNUKER
 cd NGLNUKER
